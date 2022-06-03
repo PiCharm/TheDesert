@@ -1,0 +1,11 @@
+Model Information:
+* title:	Arabian Camel (Medium)
+* source:	https://sketchfab.com/3d-models/arabian-camel-medium-b34b67a69a094177b2d8ea0de5459670
+* author:	KhalifaHawill (https://sketchfab.com/khalifahawill)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Arabian Camel (Medium)" (https://sketchfab.com/3d-models/arabian-camel-medium-b34b67a69a094177b2d8ea0de5459670) by KhalifaHawill (https://sketchfab.com/khalifahawill) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

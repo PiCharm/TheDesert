@@ -1,0 +1,11 @@
+Model Information:
+* title:	Terrain 002 - Canyonlands National Park, UT
+* source:	https://sketchfab.com/3d-models/terrain-002-canyonlands-national-park-ut-6aeeafab20044f7fb8678b5773bc5c34
+* author:	Trinh Nguyen (https://sketchfab.com/trinhstudios)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Terrain 002 - Canyonlands National Park, UT" (https://sketchfab.com/3d-models/terrain-002-canyonlands-national-park-ut-6aeeafab20044f7fb8678b5773bc5c34) by Trinh Nguyen (https://sketchfab.com/trinhstudios) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
