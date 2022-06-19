@@ -1,0 +1,11 @@
+Model Information:
+* title:	Complete Rigged stylized Character
+* source:	https://sketchfab.com/3d-models/complete-rigged-stylized-character-6b669a3b8c124086b596d0a163792e87
+* author:	feavenservices (https://sketchfab.com/feavenservices)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Complete Rigged stylized Character" (https://sketchfab.com/3d-models/complete-rigged-stylized-character-6b669a3b8c124086b596d0a163792e87) by feavenservices (https://sketchfab.com/feavenservices) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

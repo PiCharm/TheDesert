@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ufo Invasion
+* source:	https://sketchfab.com/3d-models/ufo-invasion-508b6e98c2e741e1a118d2c9a9712159
+* author:	Trockk (https://sketchfab.com/Timrockk)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ufo Invasion" (https://sketchfab.com/3d-models/ufo-invasion-508b6e98c2e741e1a118d2c9a9712159) by Trockk (https://sketchfab.com/Timrockk) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
